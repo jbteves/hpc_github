@@ -1,4 +1,4 @@
-# Using GitHub on HPC Systems
+## Using GitHub on HPC Systems
 
 GitHub is a common tool for developers, but using it on the HPC can be tricky.
 This is because both GitHub and HPC place (very reasonable) constraints on behaviors for security.
