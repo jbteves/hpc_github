@@ -11,9 +11,9 @@ Please use HTTPS or SSH instead.
 ## Contents
 
 This article covers the following:
-- [Prerequisites][#prerequisites]
-- [Using SSH keys with standalone git][#ssh-keys]
-- [Using HTTPS protocol with standalone git][#https]
+- [Prerequisites](#prerequisites)
+- [Using SSH keys with standalone git](#ssh-keys)
+- [Using HTTPS protocol with standalone git](#https)
 
 
 ## Prerequisites
@@ -35,9 +35,14 @@ Configuration for SSH depends on whether you are cloning a new repository or rep
 You may also configure git to *always* use SSH instead.
 In both cases, to get the SSH link:
 1. Navigate to the repository.
+   ![show_repo](https://user-images.githubusercontent.com/26722533/156583556-8a870741-6601-4947-852e-ac814fab15d6.png)
 1. Click "Code" with the down arrow.
-1. Select "SSH" from the "Clone" menu.
-1. Copy it into your clipboard with the button to the right of the link.
+   ![show_code_links](https://user-images.githubusercontent.com/26722533/156584801-44e5317d-bec6-48fd-acb2-2f61c480add7.png)
+3. Select "SSH" from the "Clone" menu. 
+   ![show_select_ssh](https://user-images.githubusercontent.com/26722533/156584545-01e7f43c-dd13-4544-bb0c-657532a48464.png)
+5. Copy it into your clipboard with the button to the right of the link.
+   ![show_button](https://user-images.githubusercontent.com/26722533/156584262-71943589-fd05-4f78-be3b-e405a8de8409.png)
+
 
 ### New Repository
 
